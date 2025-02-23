@@ -2,10 +2,26 @@
     font-family: Arial, Helvetica, sans-serif;  
     margin: auto;
     padding: 0;
+    text-align: center;
+    font-size: 25px;
+}
+
+h2 {
+    background-color: darkblue;
+    color: #FFFF;
+    padding: 20px;
+    font-size: 50px;
 }
 
 a {
     text-decoration: none;
+    font-weight: bold;
+    font-size: 20px;
+    color: white;
+}
+
+p {
+    padding: 20px;;
 }
 
 .title {
@@ -27,8 +43,8 @@ li {
     padding: 10px;
 }
 
-.pizza {
-    background-color: aquamarine;
+.pizza{
+    background-color: #c9123a;
 }
 
 .big-mac{
@@ -37,4 +53,20 @@ li {
 
 .cheese-rolls {
     background-color: chartreuse;
+}
+
+.home-link{
+    height: 20px;
+    width: 55px;
+    background-color: blueviolet;
+    display: flex;
+    text-align: center;
+    padding: 20px;
+}
+
+img {
+    height: 500px;
+    width:auto;
+    margin: auto;
+    display: block;
 }
