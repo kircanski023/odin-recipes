@@ -1,0 +1,40 @@
+*{
+    font-family: Arial, Helvetica, sans-serif;  
+    margin: auto;
+    padding: 0;
+}
+
+a {
+    text-decoration: none;
+}
+
+.title {
+    text-align: center;
+    font-size: 150px;
+    font-weight: 200;
+    background-color: blue;
+    color: #FFFF;
+    padding: 10px;
+}
+
+ul {
+    text-align: center;
+    font-weight: bold;
+    list-style-type: none;
+}
+
+li {
+    padding: 10px;
+}
+
+.pizza {
+    background-color: aquamarine;
+}
+
+.big-mac{
+    background-color: gold;
+}
+
+.cheese-rolls {
+    background-color: chartreuse;
+}
